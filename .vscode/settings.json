@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.py": "python",
+    "*.tsx": "javascript",
+    "linked-list.h": "c",
+    "linkedlist.h": "c"
+  }
+}
