@@ -1,8 +1,7 @@
 #ifndef linkedList_H
 #define linkedList_H
 
-struct node
-{
+struct node {
     int data;
     struct node *next;
 };

@@ -2,75 +2,62 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void Append(Node **head, int data)
-{
+void Append(Node **head, int data) {
     Node *newNode = (Node *)malloc(sizeof(Node));
 
     newNode->data = data;
     newNode->next = NULL;
 
-    if (*head == NULL)
-    {
+    if (*head == NULL) {
         *head = newNode;
         return;
-    }
-    else
-    {
+    } else {
         Node *temp = *head;
-        while (temp->next != NULL)
-        {
+        while (temp->next != NULL) {
             temp = temp->next;
         }
         temp->next = newNode;
     }
 }
 
-void PrintList(Node *tmp)
-{
+void PrintList(Node *tmp) {
     if (tmp == NULL)
         return;
-    while (tmp != NULL)
-    {
+    while (tmp != NULL) {
         printf("%d ", tmp->data);
         tmp = tmp->next;
     }
     printf("\n");
 }
 
-int Count(Node *tmp)
-{
+int Count(Node *tmp) {
     int count = 0;
-    while (tmp != NULL)
-    {
+    while (tmp != NULL) {
         count++;
         tmp = tmp->next;
     }
     return count;
 }
 
-void Delete(Node **head, int target)
-{
+void Delete(Node **head, int target) {
     Node *current = *head;
     Node *prev = NULL;
 
     if (current == NULL)
         return;
 
-    if (current->data == target)
-    {
+    if (current->data == target) {
         *head = current->next;
         free(current);
         return;
     }
 
-    while (current->data != target && current != NULL)
-    {
+    while (current->data != target && current != NULL) {
         prev = current;
         current = current->next;
     }
 
-    if (current != NULL)
-    {
+    if (current != NULL) {
         prev->next = current->next;
         current->next = NULL;
         free(current);
@@ -78,11 +65,9 @@ void Delete(Node **head, int target)
     }
 }
 
-void Insert(Node **head, int data, int index)
-{
+void Insert(Node **head, int data, int index) {
     int currentLength = Count(*head);
-    if (currentLength + 1 < index)
-    {
+    if (currentLength + 1 < index) {
         printf("The string length is only%d Cannot be added", currentLength);
         return;
     }
@@ -91,8 +76,7 @@ void Insert(Node **head, int data, int index)
     newNode->data = data;
 
     // empty list
-    if (*head == NULL)
-    {
+    if (*head == NULL) {
         newNode->next = NULL;
         *head = newNode;
         return;
@@ -102,8 +86,7 @@ void Insert(Node **head, int data, int index)
     Node *current = *head;
     // find insert index
     int currentIndex = 1;
-    while (currentIndex != index)
-    {
+    while (currentIndex != index) {
         prev = current;
         currentIndex++;
         current = current->next;
@@ -114,14 +97,12 @@ void Insert(Node **head, int data, int index)
     prev->next = newNode;
 }
 
-void reverse(Node **head)
-{
+void reverse(Node **head) {
     Node *prev = NULL;
     Node *current = *head;
     Node *next = NULL;
 
-    while (current != NULL)
-    {
+    while (current != NULL) {
         next = current->next;
         current->next = prev;
         prev = current;

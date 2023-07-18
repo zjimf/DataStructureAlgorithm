@@ -1,17 +1,15 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "linkedList.h"
 
-int main(int argc, char **argv)
-{
+int main(int argc, char **argv) {
     Node *head = NULL;
     int length, nodeVal, deleteVal, InsertVal, InsertIndex;
     printf("The length of the list: ");
     scanf("%d", &length);
 
-    for (int i = 0; i < length; i++)
-    {
+    for (int i = 0; i < length; i++) {
         printf("Enter the Node%d value: ", i);
         scanf("%d", &nodeVal);
         Append(&head, nodeVal);
