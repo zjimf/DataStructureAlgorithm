@@ -97,7 +97,7 @@ void Insert(Node **head, int data, int index) {
     prev->next = newNode;
 }
 
-void reverse(Node **head) {
+void Reverse(Node **head) {
     Node *prev = NULL;
     Node *current = *head;
     Node *next = NULL;

@@ -30,7 +30,7 @@ int main(int argc, char **argv) {
     Insert(&head, InsertVal, InsertIndex);
     PrintList(head);
     printf("Reverse List: ");
-    reverse(&head);
+    Reverse(&head);
     PrintList(head);
     return 0;
 }

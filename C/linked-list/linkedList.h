@@ -52,12 +52,11 @@ void Delete(Node **head, int target);
 void Insert(Node **head, int data, int index);
 
 /** @brief Reverse the list(1->2->3 => 3->2->1)
- *         1->2->3 => 3->2->1
  *
  * @param head Double pointer to the head of the list
  *
  * @return Void.
  */
-void reverse(Node **head);
+void Reverse(Node **head);
 
 #endif
