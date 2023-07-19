@@ -82,7 +82,14 @@ void Insert(Node **head, int data, int index) {
         return;
     }
 
-    Node *prev;
+    // only one node
+    if (index == 1) {
+        newNode->next = *head;
+        *head = newNode;
+        return;
+    }
+
+    Node *prev = *head;
     Node *current = *head;
     // find insert index
     int currentIndex = 1;

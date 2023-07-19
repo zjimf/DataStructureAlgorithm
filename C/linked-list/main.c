@@ -10,7 +10,7 @@ int main(int argc, char **argv) {
     scanf("%d", &length);
 
     for (int i = 0; i < length; i++) {
-        printf("Enter the Node%d value: ", i);
+        printf("Enter the Node%d value: ", i + 1);
         scanf("%d", &nodeVal);
         Append(&head, nodeVal);
     }
