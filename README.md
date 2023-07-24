@@ -10,4 +10,4 @@
 - [Linked-list](https://github.com/zjimf/DataStructure/tree/master/C++/linked-list)
 - [Double-Linked-list](https://github.com/zjimf/DataStructure/tree/master/C++/double-linked-list)
 - [Stack](https://github.com/zjimf/DataStructure/tree/master/C++/Stack)
-- Queue
+- [Queue](https://github.com/zjimf/DataStructure/tree/master/C++/Queue)
