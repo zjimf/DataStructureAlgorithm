@@ -34,15 +34,6 @@ BST_Node *insert(BST_Node *root, int value);
  */
 BST_Node *deleteNode(BST_Node *root, int targetVal);
 
-/** @brief find the node in BST
- *
- * @param root pointer to BST root
- * @param targetVal the value to find in BST
- *
- * @return BST_Node. pointer to target node
- */
-BST_Node *find(BST_Node *root, int targetVal);
-
 /** @brief find maximum value in BST
  *
  * @param root pointer to BST root
