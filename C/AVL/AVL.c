@@ -23,8 +23,8 @@ Node *rightRotate(Node *y) {
     x->right = y;
     y->left = t;
 
-    y->height = MAX(height(y->left), height(y->right)) + 1;
     x->height = MAX(height(x->left), height(x->right)) + 1;
+    y->height = MAX(height(y->left), height(y->right)) + 1;
 
     return x;
 }
@@ -36,8 +36,8 @@ Node *leftRotate(Node *y) {
     x->left = y;
     y->right = t;
 
-    y->height = MAX(height(y->left), height(y->right)) + 1;
     x->height = MAX(height(x->left), height(x->right)) + 1;
+    y->height = MAX(height(y->left), height(y->right)) + 1;
 
     return x;
 }
@@ -86,7 +86,7 @@ Node *insert(Node *node, int data) {
 }
 
 Node *minValue(Node *node) {
-    struct Node *current = node;
+    Node *current = node;
 
     while (current->left != NULL)
         current = current->left;

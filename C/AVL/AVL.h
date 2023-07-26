@@ -26,19 +26,19 @@ Node *newNode(int data);
 
 /** @brief right rotate for balance the AVL tree
  *
- * @param node pointer to unbalance node abs(height(left child) - height(right child)) > 1
+ * @param y pointer to unbalance node abs(height(left child) - height(right child)) > 1
  *
  * @return Node. pointer to adjusted tree root
  */
-Node *rightRotate(Node *node);
+Node *rightRotate(Node *y);
 
 /** @brief left rotate for balance the AVL tree
  *
- * @param node pointer to unbalance node abs(height(left child) - height(right child)) > 1
+ * @param y pointer to unbalance node abs(height(left child) - height(right child)) > 1
  *
  * @return Node. pointer to adjusted tree root
  */
-Node *leftRotate(Node *node);
+Node *leftRotate(Node *y);
 
 /** @brief get the balance value (height(left child) - height(right child))
  *
@@ -68,11 +68,11 @@ Node *insert(Node *node, int data);
 /** @brief delete the value into AVL
  *
  * @param node pointer to root
- * @param data the data we want delete
+ * @param target the data we want delete
  *
  * @return Node. pointer to root
  */
-Node *delete(Node *node, int data);
+Node *delete(Node *node, int target);
 
 /** @brief preorder traversal
  *
