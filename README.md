@@ -16,4 +16,4 @@
 - [Queue](https://github.com/zjimf/DataStructure/tree/master/C++/Queue)
 - [BST](https://github.com/zjimf/DataStructure/tree/master/C++/BST)
 - [AVL](https://github.com/zjimf/DataStructure/tree/master/C++/AVL)
-- Heap
+- [Heap](https://github.com/zjimf/DataStructure/tree/master/C++/Heap)
