@@ -41,7 +41,7 @@ public:
      *
      * @return Node. root
      */
-    Node *insert(Node *&root, int value);
+    Node *insert(Node *root, int value);
 
     /** @brief Delete the value in BST
      *

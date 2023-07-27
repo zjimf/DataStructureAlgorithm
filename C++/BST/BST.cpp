@@ -15,7 +15,7 @@ Node *BST::newNode(int value) {
     return newNode;
 }
 
-Node *BST::insert(Node *&root, int value) {
+Node *BST::insert(Node *root, int value) {
     if (root == NULL)
         return newNode(value);
 
