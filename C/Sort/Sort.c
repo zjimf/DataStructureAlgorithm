@@ -21,14 +21,15 @@ void insertionSort(int arr[], int len) {
 }
 
 void selectionSort(int arr[], int len) {
+
     for (int i = 0; i < len - 1; i++) {
         int k = i;
-        for (int j = i + 1; j < len; j++) {
+        for (int j = i + 1; j < len; j++)
             if (arr[j] < arr[k])
                 k = j;
-            if (k != i)
-                swap(&arr[i], &arr[k]);
-        }
+
+        if (k != i)
+            swap(&arr[k], &arr[i]);
     }
 }
 

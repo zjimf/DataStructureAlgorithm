@@ -17,5 +17,5 @@ int main() {
     // mergeSort(arr, 0, len - 1);
     // printf("quick sort: \n");
     // quickSort(arr, 0, len - 1);
-    // printArr(arr, len);
+    printArr(arr, len);
 }
