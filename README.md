@@ -7,6 +7,7 @@
 - [BST](https://github.com/zjimf/DataStructure/tree/master/C/BST)
 - [AVL](https://github.com/zjimf/DataStructure/tree/master/C/AVL)
 - [Heap](https://github.com/zjimf/DataStructure/tree/master/C/Heap)
+- [Sort](https://github.com/zjimf/DataStructure/tree/master/C/Sort)
 
 # C++
 
