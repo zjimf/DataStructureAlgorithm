@@ -1,9 +1,9 @@
-/** 1. Two_Sum
+/** 1. Two Sum
  *  @brief Using unordered_map(hash)
  *         if found (target-current) in the map return the pair index,
  *         else store in map {current value, current index}
  *
- *  @time_complexity O(N)
+ *  @Time complexity O(N)
  */
 class Solution {
 public:
