@@ -11,6 +11,7 @@
 
 ## Leetcode
 
-|  #  |  Title  |                                         Solution                                          | Difficulty |     Date     |
-| :-: | :-----: | :---------------------------------------------------------------------------------------: | :--------: | :----------: |
-|  1  | Two Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp) |    Easy    | JUL 31, 2023 |
+|  #  |     Title     |                                             Solution                                              | Difficulty |     Date     |
+| :-: | :-----------: | :-----------------------------------------------------------------------------------------------: | :--------: | :----------: |
+|  1  |    Two Sum    |     [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp)     |    Easy    | JUL 31, 2023 |
+| 704 | Binary Search | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp) |    Easy    | Aug 1, 2023  |
