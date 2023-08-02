@@ -1,7 +1,7 @@
 /** 704. Binary Search
  *  @brief Binary search
  *
- *  @Time complexity O(log(N))
+ *  @Time_complexity O(log(N))
  */
 class Solution {
 public:

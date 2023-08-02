@@ -3,7 +3,7 @@
  *         if found (target-current) in the map return the pair index,
  *         else store in map {current value, current index}
  *
- *  @Time complexity O(N)
+ *  @Time_complexity O(N)
  */
 class Solution {
 public:

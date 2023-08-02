@@ -1,7 +1,7 @@
 /** 27. Remove Element
  *  @brief build new array to store
  *
- *  @Time complexity O(N)
+ *  @Time_complexity O(N)
  */
 class Solution {
 public:

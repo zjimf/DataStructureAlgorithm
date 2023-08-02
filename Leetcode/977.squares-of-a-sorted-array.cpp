@@ -1,7 +1,7 @@
 /** 977. Squares of a Sorted Array
  *  @brief Squares all element, stored in new vector, sorting
  *
- *  @Time complexity O(NlogN)
+ *  @Time_complexity O(NlogN)
  */
 class Solution {
 public:
