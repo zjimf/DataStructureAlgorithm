@@ -15,6 +15,7 @@
 | :-: | :-----------------------: | :-----------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 |  1  |          Two Sum          |           [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp)           |    Easy    | JUL 31, 2023 |
 | 27  |      Remove Element       |       [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp)       |    Easy    | Aug 2, 2023  |
+| 59  |     Spiral Matrix II      |      [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/59.spiral-matrix-ii.cpp)      |   Medium   | Aug 3, 2023  |
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) |   Medium   | Aug 2, 2023  |
 | 704 |       Binary Search       |       [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp)       |    Easy    | Aug 1, 2023  |
 | 977 | Squares of a Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/977.squares-of-a-sorted-array.cpp) |    Easy    | Aug 2, 2023  |
