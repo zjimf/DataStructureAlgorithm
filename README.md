@@ -19,5 +19,6 @@
 | 200  |                Number of Islands                |                [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/200.number-of-islands.cpp)                 |   Medium   | Aug 4, 2023  |
 | 209  |            Minimum Size Subarray Sum            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp)             |   Medium   | Aug 2, 2023  |
 | 704  |                  Binary Search                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp)                   |    Easy    | Aug 1, 2023  |
+| 752  |                  Open the Lock                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp)                   |   Medium   | Aug 6, 2023  |
 | 977  |            Squares of a Sorted Array            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/977.squares-of-a-sorted-array.cpp)             |    Easy    | Aug 2, 2023  |
 | 2461 | Maximum Sum of Distinct Subarrays With Length K | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/2461.maximum-sum-of-distinct-subarrays-with-length-k.cpp) |   Medium   | Aug 3, 2023  |
