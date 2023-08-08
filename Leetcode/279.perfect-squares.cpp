@@ -1,10 +1,11 @@
-/*
- * @lc app=leetcode id=279 lang=cpp
- *
- * [279] Perfect Squares
- */
-
-// @lc code=start
+/** 279. Perfect Squares
+* @brief 
+* 1. if the queue is not empty, iterate the "current" value in Queue, and dequeue the front value each time（front）
+* 2. Calculate every possibility of the front, if equal to n then return, enqueue the value, and record in visited if not equal to n and not in visited
+* 3. Back to 1
+*
+* Time_complexity O(N * sqrt(N))
+*/
 class Solution {
 public:
     int numSquares(int n) {
