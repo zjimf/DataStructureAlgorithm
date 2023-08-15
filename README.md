@@ -14,6 +14,7 @@
 |  #   |                      Title                      |                                                               Solution                                                               | Difficulty |     Date     |
 | :--: | :---------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 |  1   |                     Two Sum                     |                      [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp)                       |    Easy    | JUL 31, 2023 |
+|  15  |                      3Sum                       |                       [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/15.3-sum.cpp)                       |   Medium   | Aug 15, 2023 |
 |  27  |                 Remove Element                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp)                   |    Easy    | Aug 2, 2023  |
 |  75  |                   Sort colors                   |                    [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp)                    |   Medium   | Aug 11, 2023 |
 |  56  |                 Merge Intervals                 |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/56.merge-intervals.cpp)                  |   Medium   | Aug 10, 2023 |
