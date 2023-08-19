@@ -22,6 +22,7 @@
 |  59  |                Spiral Matrix II                 |                 [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/59.spiral-matrix-ii.cpp)                  |   Medium   | Aug 3, 2023  |
 |  92  |             Reverse Linked List II              |              [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp)               |   Medium   | Aug 16, 2023 |
 | 148  |                    Sort List                    |                    [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/148.sort-list.cpp)                     |   Medium   | Aug 8, 2023  |
+| 150  |        Evaluate Reverse Polish Notation         |         [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/150.evaluate-reverse-polish-notation.cpp)         |   Medium   | Aug 19, 2023 |
 | 179  |                 Largest number                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/179.largest-number.cpp)                  |   Medium   | Aug 11, 2023 |
 | 200  |                Number of Islands                |                [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/200.number-of-islands.cpp)                 |   Medium   | Aug 4, 2023  |
 | 209  |            Minimum Size Subarray Sum            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp)             |   Medium   | Aug 2, 2023  |
