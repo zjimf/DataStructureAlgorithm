@@ -32,6 +32,7 @@
 | 209  |            Minimum Size Subarray Sum            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp)             |   Medium   | Aug 2, 2023  |
 | 215  |       Kth Largest Element in an Array Sum       |         [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/215.kth-largest-element-in-an-array.cpp)          |   Medium   | Aug 11, 2023 |
 | 279  |                 Perfect Squares                 |                 [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/279.perfect-squares.cpp)                  |   Medium   | Aug 7, 2023  |
+| 299  |                 Bulls and Cows                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/299.bulls-and-cows.cpp)                  |   Medium   | Aug 30, 2023 |
 | 328  |              Odd Even Linked List               |               [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/328.odd-even-linked-list.cpp)               |   Medium   | Aug 17, 2023 |
 | 380  |          Insert Delete GetRandom O(1)           |           [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/380.insert-delete-get-random-o-1.cpp)           |   Medium   | Aug 28, 2023 |
 | 704  |                  Binary Search                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp)                   |    Easy    | Aug 1, 2023  |
