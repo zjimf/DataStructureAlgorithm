@@ -14,6 +14,7 @@
 |  #   |                      Title                      |                                                               Solution                                                               | Difficulty |     Date     |
 | :--: | :---------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 |  1   |                     Two Sum                     |                      [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp)                       |    Easy    | JUL 31, 2023 |
+|  3   | Longest Substring Without Repeating Characters  |   [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/3.longest-substring-without-repeating-characters.cpp)   |    Easy    | Aug 30, 2023 |
 |  15  |                      3Sum                       |                       [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/15.3-sum.cpp)                       |   Medium   | Aug 15, 2023 |
 |  27  |                 Remove Element                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp)                   |    Easy    | Aug 2, 2023  |
 |  49  |                 Group Anagrams                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/49.group-anagrams.cpp)                   |   Medium   | Aug 29, 2023 |
