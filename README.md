@@ -39,6 +39,7 @@
 | 704  |                  Binary Search                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp)                   |    Easy    | Aug 1, 2023  |
 | 735  |               Asteroid Collision                |                [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/735.asteroid-collision.cpp)                |   Medium   | Aug 23, 2023 |
 | 752  |                  Open the Lock                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp)                   |   Medium   | Aug 6, 2023  |
+| 973  |           K Closest Points to Origin            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/973.k-closest-points-to-origin.cpp)            |   Medium   | Aug 31, 2023 |
 | 977  |            Squares of a Sorted Array            |            [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/977.squares-of-a-sorted-array.cpp)             |    Easy    | Aug 2, 2023  |
 | 1209 |   Remove All Adjacent Duplicates in String II   |   [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1209.remove-all-adjacent-duplicates-in-string-ii.cpp)   |   Medium   | Aug 22, 2023 |
 | 1249 |    Minimum Remove to Make Valid Parentheses     |    [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1249.minimum-remove-to-make-valid-parentheses.cpp)     |   Medium   | Aug 23, 2023 |
