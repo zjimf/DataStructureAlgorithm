@@ -36,6 +36,7 @@
 | 299  |                 Bulls and Cows                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/299.bulls-and-cows.cpp)                  |   Medium   | Aug 30, 2023 |
 | 328  |              Odd Even Linked List               |               [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/328.odd-even-linked-list.cpp)               |   Medium   | Aug 17, 2023 |
 | 380  |          Insert Delete GetRandom O(1)           |           [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/380.insert-delete-get-random-o-1.cpp)           |   Medium   | Aug 28, 2023 |
+| 658  |             Find K Closest Elements             |             [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/658.find-k-closest-elements.cpp)              |   Medium   | Sep 1, 2023  |
 | 704  |                  Binary Search                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp)                   |    Easy    | Aug 1, 2023  |
 | 735  |               Asteroid Collision                |                [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/735.asteroid-collision.cpp)                |   Medium   | Aug 23, 2023 |
 | 752  |                  Open the Lock                  |                  [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp)                   |   Medium   | Aug 6, 2023  |
