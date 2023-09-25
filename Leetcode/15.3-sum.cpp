@@ -1,8 +1,7 @@
 /** 15. 3Sum
- *  @brief Using three pointer
- *         Iterate nums with variable i, and calculate target(0-nums[i])
- *         left point to i+1, right point to len-1
- *         check left + right whether equal target, if not, move the left or right
+ *  @brief 使用三個pointer
+ *         遍歷每個陣列的元素，並選取目前該元素的下一個作為left指標，陣列尾端為right指標
+ *         每輪讓left和right彼此靠近確定加總是否等於（-nums[i]）即可
  *
  *  @Time_complexity O(N^2)
  */
