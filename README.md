@@ -19,12 +19,13 @@
 | 5 | Longest Palindromic Substring •| [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/5.longest-palindromic-substring.cpp) | Medium | Sep 21, 2023 |
 | 11 | Container With Most Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/11.container-with-most-water.cpp) | Medium | Sep 25, 2023 |
 | 15 | 3Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/15.3-sum.cpp) | Medium | Aug 15, 2023 |
-| 18 | 4Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/15.4-sum.cpp) | Medium | Sep 22, 2023 |
+| 18 | 4Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/18.4-sum.cpp) | Medium | Sep 22, 2023 |
 | 19 | Remove Nth Node From End of List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/19.remove-nth-node-from-end-of-list.cpp) | Medium | Oct 5, 2023 |
 | 23 | Merge k Sorted Listsm | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/23.merge-k-sorted-lists.cpp) | Hard | Sep 5, 2023 |
 | 27 | Remove Element | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp) | Easy | Aug 2, 2023 |
 | 33 | Search in Rotated Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/33.search-in-rotated-sorted-array.cpp) | Medium | Sep 18, 2023 |
 | 34 | Find First and Last Position of Element in Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/34.find-first-and-last-position-of-element-in-sorted-array.cpp) | Easy | Sep 18, 2023 |
+| 42 | Trapping Rain Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/42.trapping-rain-water.cpp) | Hard | Oct 12, 2023 |
 | 49 | Group Anagrams | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/49.group-anagrams.cpp) | Medium | Aug 29, 2023 |
 | 54 | Spiral Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/54.spiral-matrix.cpp) | Medium | Aug 18, 2023 |
 | 56 | Merge Intervals | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/56.merge-intervals.cpp) | Medium | Aug 10, 2023 |
