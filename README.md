@@ -25,6 +25,7 @@
 | 27 | Remove Element | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp) | Easy | Aug 2, 2023 |
 | 33 | Search in Rotated Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/33.search-in-rotated-sorted-array.cpp) | Medium | Sep 18, 2023 |
 | 34 | Find First and Last Position of Element in Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/34.find-first-and-last-position-of-element-in-sorted-array.cpp) | Easy | Sep 18, 2023 |
+| 36 | Valid Sudoku | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/36.valid-sudoku.cpp) | Medium | Oct 13, 2023 |
 | 42 | Trapping Rain Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/42.trapping-rain-water.cpp) | Hard | Oct 12, 2023 |
 | 49 | Group Anagrams | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/49.group-anagrams.cpp) | Medium | Aug 29, 2023 |
 | 54 | Spiral Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/54.spiral-matrix.cpp) | Medium | Aug 18, 2023 |
