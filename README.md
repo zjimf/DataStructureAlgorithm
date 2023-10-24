@@ -15,6 +15,7 @@
 | # | Title | Solution | Difficulty | Date |
 | :--: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :----------: |
 | 1 | Two Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1.two-sum.cpp) | Easy | JUL 31, 2023 |
+| 2 | Add Two Numbers | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/2.add-two-numbers.cpp) | Medium | Oct 24, 2023 |
 | 3 | Longest Substring Without Repeating Characters | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/3.longest-substring-without-repeating-characters.cpp) | Medium | Aug 30, 2023 |
 | 5 | Longest Palindromic Substring •| [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/5.longest-palindromic-substring.cpp) | Medium | Sep 21, 2023 |
 | 11 | Container With Most Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/11.container-with-most-water.cpp) | Medium | Sep 25, 2023 |
@@ -35,6 +36,7 @@
 | 74 | Search a 2D Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/74.search-a-2-d-matrix.cpp) | Medium | Sep 20, 2023 |
 | 75 | Sort colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp) | Medium | Aug 11, 2023 |
 | 76 | Minimum Window Substring colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/76.minimum-window-substring.cpp) | Hard | Oct 2, 2023 |
+| 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
