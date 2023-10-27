@@ -32,6 +32,7 @@
 | 54 | Spiral Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/54.spiral-matrix.cpp) | Medium | Aug 18, 2023 |
 | 56 | Merge Intervals | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/56.merge-intervals.cpp) | Medium | Aug 10, 2023 |
 | 59 | Spiral Matrix II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/59.spiral-matrix-ii.cpp) | Medium | Aug 3, 2023 |
+| 61 | Rotate List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/61.rotate-list.cpp) | Medium | Oct 25, 2023 |
 | 73 | Set Matrix Zeroes | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/73.set-matrix-zeroes.cpp) | Medium | Aug 26, 2023 |
 | 74 | Search a 2D Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/74.search-a-2-d-matrix.cpp) | Medium | Sep 20, 2023 |
 | 75 | Sort colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp) | Medium | Aug 11, 2023 |
