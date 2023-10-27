@@ -36,6 +36,8 @@
 | 74 | Search a 2D Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/74.search-a-2-d-matrix.cpp) | Medium | Sep 20, 2023 |
 | 75 | Sort colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp) | Medium | Aug 11, 2023 |
 | 76 | Minimum Window Substring colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/76.minimum-window-substring.cpp) | Hard | Oct 2, 2023 |
+| 82 | Remove Duplicates from Sorted List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/83.remove-duplicates-from-sorted-list.cpp) | Easy | Oct 25, 2023 |
+| 83 | Leetcode/82.remove-duplicates-from-sorted-list-ii.cpp | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 25, 2023 |
 | 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
@@ -47,6 +49,7 @@
 | 150 | Evaluate Reverse Polish Notation | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/150.evaluate-reverse-polish-notation.cpp) | Medium | Aug 19, 2023 |
 | 162 | Find Peak Element | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/162.find-peak-element.cpp) | Medium | Sep 19, 2023 |
 | 179 | Largest number | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/179.largest-number.cpp) | Medium | Aug 11, 2023 |
+| 187 | Repeated DNA Sequences | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/187.repeated-dna-sequences.cpp) | Medium | Oct 27, 2023 |
 | 200 | Number of Islands | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/200.number-of-islands.cpp) | Medium | Aug 4, 2023 |
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) | Medium | Aug 2, 2023 |
 | 215 | Kth Largest Element in an Array Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/215.kth-largest-element-in-an-array.cpp) | Medium | Aug 11, 2023 |

@@ -18,8 +18,8 @@
 class Solution {
 public:
     ListNode *deleteDuplicates(ListNode *head) {
-        ListNode *dummy = new ListNode(0, head);
-        ListNode *prev = dummy;
+        ListNode *start = new ListNode(0, head);
+        ListNode *prev = start;
         while (head) {
             if (head->next != NULL && head->val == head->next->val) {
                 while (head->next != NULL && head->val == head->next->val)
@@ -30,7 +30,7 @@ public:
             }
             head = head->next;
         }
-        return dummy->next;
+        return start->next;
     }
 };
 // @lc code=end
