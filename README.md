@@ -67,9 +67,11 @@
 | 380 | Insert Delete GetRandom O(1) | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/380.insert-delete-get-random-o-1.cpp) | Medium | Aug 28, 2023 |
 | 395 | Longest Substring with At Least K Repeating Character | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/395.longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Sep 26, 2023 |
 | 424 | Longest Repeating Character Replacement | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/424.longest-repeating-character-replacement.cpp) | Medium | Sep 27, 2023 |
+| 567 | Permutation in String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/567.permutation-in-string.cpp) | Medium | Oct 29, 2023 |
 | 658 | Find K Closest Elements | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/658.find-k-closest-elements.cpp) | Medium | Sep 1, 2023 |
 | 692 | Top K Frequent Words | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/692.top-k-frequent-words.cpp) | Medium | Sep 8, 2023 |
 | 704 | Binary Search | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp) | Easy | Aug 1, 2023 |
+| 718 | Maximum Length Of Repeated SubArray | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/718.maximum-length-of-repeated-subarray.cpp) | Medium | Oct 29, 2023 |
 | 735 | Asteroid Collision | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/735.asteroid-collision.cpp) | Medium | Aug 23, 2023 |
 | 752 | Open the Lock | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp) | Medium | Aug 6, 2023 |
 | 767 | Reorganize String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/767.reorganize-string.cpp) | Medium | Sep 12, 2023 |
