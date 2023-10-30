@@ -76,6 +76,7 @@
 | 752 | Open the Lock | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp) | Medium | Aug 6, 2023 |
 | 767 | Reorganize String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/767.reorganize-string.cpp) | Medium | Sep 12, 2023 |
 | 895 | Maximum Frequency Stack String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/895.maximum-frequency-stack.cpp) | Hard | Sep 13, 2023 |
+| 950 | Reveal cards in increasingOrder | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/950.Reveal-cards-in-increasingOrder.cpp) | Medium | Oct 30, 2023 |
 | 973 | K Closest Points to Origin | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/973.k-closest-points-to-origin.cpp) | Medium | Aug 31, 2023 |
 | 977 | Squares of a Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/977.squares-of-a-sorted-array.cpp) | Easy | Aug 2, 2023 |
 | 1004 | Max Consecutive Ones III | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1004.max-consecutive-ones-iii.cpp) | Medium | Oct 2, 2023 |
