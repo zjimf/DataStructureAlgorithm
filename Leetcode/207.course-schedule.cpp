@@ -6,8 +6,8 @@ public:
         vector<int> inDegrees(numCourses, 0);
 
         for (const auto &prereq : prerequisites) {
-            graph[prereq[0]].push_back(prereq[1]);
-            inDegrees[prereq[1]]++;
+            graph[prereq[1]].push_back(prereq[0]);
+            inDegrees[prereq[0]]++;
         }
 
         queue<int> q;
