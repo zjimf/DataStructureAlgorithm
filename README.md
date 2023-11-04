@@ -56,6 +56,7 @@
 | 200 | Number of Islands | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/200.number-of-islands.cpp) | Medium | Aug 4, 2023 |
 | 207 | Course Schedule | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/207.course-schedule.cpp) | Medium | Nov 3, 2023 |
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) | Medium | Aug 2, 2023 |
+| 210 | Course Schedule II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/210.course-schedule-ii.cpp) | Medium | Nov 4, 2023 |
 | 215 | Kth Largest Element in an Array Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/215.kth-largest-element-in-an-array.cpp) | Medium | Aug 11, 2023 |
 | 239 | Sliding Window Maximum Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/239.sliding-window-maximum.cpp) | Hard | Sep 14, 2023 |
 | 264 | Ugly Number II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/264.ugly-number-ii.cpp) | Medium | Sep 6, 2023 |
