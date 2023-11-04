@@ -1,4 +1,10 @@
-// BFS
+/** 207. Course schedule
+ *  @brief using topological sort
+ *  build graph and inDegree table, start from begin node(inDegree value = 0)
+ *  and start topological sort, then count the path(coursesFinished)
+ *  if equal numCourses, means ok(no cycle), but if bigger than numCourses means have cycle
+ *
+ */
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>> &prerequisites) {
