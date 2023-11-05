@@ -74,6 +74,7 @@
 | 424 | Longest Repeating Character Replacement | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/424.longest-repeating-character-replacement.cpp) | Medium | Sep 27, 2023 |
 | 451 | Sort Characters By Frequency | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/451.sort-characters-by-frequency.cpp) | Medium | Nov 1, 2023 |
 | 567 | Permutation in String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/567.permutation-in-string.cpp) | Medium | Oct 29, 2023 |
+| 630 | Course Schedule III | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/630.course-schedule-iii.cpp) | Medium | Nov 6, 2023 |
 | 658 | Find K Closest Elements | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/658.find-k-closest-elements.cpp) | Medium | Sep 1, 2023 |
 | 692 | Top K Frequent Words | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/692.top-k-frequent-words.cpp) | Medium | Sep 8, 2023 |
 | 704 | Binary Search | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/704.binary-search.cpp) | Easy | Aug 1, 2023 |
