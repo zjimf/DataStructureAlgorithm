@@ -30,6 +30,7 @@
 | 36 | Valid Sudoku | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/36.valid-sudoku.cpp) | Medium | Oct 13, 2023 |
 | 42 | Trapping Rain Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/42.trapping-rain-water.cpp) | Hard | Oct 12, 2023 |
 | 49 | Group Anagrams | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/49.group-anagrams.cpp) | Medium | Aug 29, 2023 |
+| 51 | N-Queens | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/51.n-queens.cpp) | Medium | Nov 21, 2023 |
 | 54 | Spiral Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/54.spiral-matrix.cpp) | Medium | Aug 18, 2023 |
 | 56 | Merge Intervals | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/56.merge-intervals.cpp) | Medium | Aug 10, 2023 |
 | 59 | Spiral Matrix II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/59.spiral-matrix-ii.cpp) | Medium | Aug 3, 2023 |
