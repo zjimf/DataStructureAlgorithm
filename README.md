@@ -69,6 +69,7 @@
 | 310 | Minimum Height Trees | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/310.minimum-height-trees.cpp) | Medium | Nov 1, 2023 |
 | 318 | Maximum Product of Word Lengths | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/318.maximum-product-of-word-lengths.cpp) | Medium | Oct 16, 2023 |
 | 328 | Odd Even Linked List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/328.odd-even-linked-list.cpp) | Medium | Aug 17, 2023 |
+| 341 | Flatten Nested List Iterator | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/341.flatten-nested-list-iterator.cpp) | Medium | Dec 3, 2023 |
 | 347 | Top K Frequent Elements | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/347.top-k-frequent-elements.cpp) | Medium | Sep 4, 2023 |
 | 355 | Design Twitter | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/355.design-twitter.cpp) | Medium | Sep 17, 2023 |
 | 378 | Kth Smallest Element in a Sorted Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/378.kth-smallest-element-in-a-sorted-matrix.cpp) | Medium | Sep 12, 2023 |
