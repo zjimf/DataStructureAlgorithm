@@ -41,7 +41,7 @@
 | 75 | Sort colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp) | Medium | Aug 11, 2023 |
 | 76 | Minimum Window Substring colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/76.minimum-window-substring.cpp) | Hard | Oct 2, 2023 |
 | 82 | Remove Duplicates from Sorted List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/83.remove-duplicates-from-sorted-list.cpp) | Easy | Oct 25, 2023 |
-| 83 | Leetcode/82.remove-duplicates-from-sorted-list-ii.cpp | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 25, 2023 |
+| 83 | Remove Duplicates from Sorted List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 25, 2023 |
 | 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
