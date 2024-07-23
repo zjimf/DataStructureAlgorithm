@@ -42,6 +42,7 @@
 | 76 | Minimum Window Substring colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/76.minimum-window-substring.cpp) | Hard | Oct 2, 2023 |
 | 82 | Remove Duplicates from Sorted List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/83.remove-duplicates-from-sorted-list.cpp) | Easy | Oct 25, 2023 |
 | 83 | Remove Duplicates from Sorted List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 25, 2023 |
+| 84 | Largest Rectangle in Histogram | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/84.largest-rectangle-in-histogram.cpp) | Hard | Jul 23, 2024 |
 | 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
@@ -62,6 +63,7 @@
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) | Medium | Aug 2, 2023 |
 | 210 | Course Schedule II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/210.course-schedule-ii.cpp) | Medium | Nov 4, 2023 |
 | 215 | Kth Largest Element in an Array Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/215.kth-largest-element-in-an-array.cpp) | Medium | Aug 11, 2023 |
+| 238 | Product of Array Except Self | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/238.product-of-array-except-self.cpp) | Medium | Jul 23, 2024 |
 | 239 | Sliding Window Maximum Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/239.sliding-window-maximum.cpp) | Hard | Sep 14, 2023 |
 | 264 | Ugly Number II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/264.ugly-number-ii.cpp) | Medium | Sep 6, 2023 |
 | 279 | Perfect Squares | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/279.perfect-squares.cpp) | Medium | Aug 7, 2023 |
