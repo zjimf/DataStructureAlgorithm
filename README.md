@@ -54,6 +54,7 @@
 | 146 | LRU Cache | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/146.lru-cache.cpp) | Medium | Aug 24, 2023 |
 | 148 | Sort List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/148.sort-list.cpp) | Medium | Aug 8, 2023 |
 | 150 | Evaluate Reverse Polish Notation | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/150.evaluate-reverse-polish-notation.cpp) | Medium | Aug 19, 2023 |
+| 153 | Find Minimum in Rotated Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/153.find-minimum-in-rotated-sorted-array.cpp) | Medium | Jul 24, 2024 |
 | 162 | Find Peak Element | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/162.find-peak-element.cpp) | Medium | Sep 19, 2023 |
 | 167 | Two Sum II - Input Array Is Sorted | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/167.two-sum-ii-input-array-is-sorted.cpp) | Medium | Jul 18, 2024 |
 | 179 | Largest number | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/179.largest-number.cpp) | Medium | Aug 11, 2023 |
@@ -91,6 +92,7 @@
 | 752 | Open the Lock | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/752.open-the-lock.cpp) | Medium | Aug 6, 2023 |
 | 767 | Reorganize String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/767.reorganize-string.cpp) | Medium | Sep 12, 2023 |
 | 853 | Car Fleet | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/853.car-fleet.cpp) | Medium | Jul 19, 2024 |
+| 875 | Koko Eating Bananas | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/875.koko-eating-bananas.cpp) | Medium | Jul 24, 2024 |
 | 895 | Maximum Frequency Stack String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/895.maximum-frequency-stack.cpp) | Hard | Sep 13, 2023 |
 | 950 | Reveal cards in increasingOrder | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/950.Reveal-cards-in-increasingOrder.cpp) | Medium | Oct 30, 2023 |
 | 973 | K Closest Points to Origin | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/973.k-closest-points-to-origin.cpp) | Medium | Aug 31, 2023 |
