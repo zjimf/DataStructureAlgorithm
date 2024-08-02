@@ -51,6 +51,7 @@
 | 117 | Populating Next Right Pointers in Each Node II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/117.populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Nov 2, 2023 |
 | 128 | Longest Consecutive Sequence | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/128.longest-consecutive-sequence.cpp) | Medium | Aug 24, 2023 |
 | 130 | Surrounded Regions | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/130.surrounded-regions.cpp) | Medium | Oct 25, 2023 |
+| 139 | Word Break | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/139.word-break.cpp) | Medium | Aug 2, 2024 |
 | 143 | Reorder List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/143.reorder-list.cpp) | Medium | Jul 31, 2024 |
 | 146 | LRU Cache | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/146.lru-cache.cpp) | Medium | Aug 24, 2023 |
 | 148 | Sort List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/148.sort-list.cpp) | Medium | Aug 8, 2023 |
