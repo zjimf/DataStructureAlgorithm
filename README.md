@@ -53,6 +53,7 @@
 | 130 | Surrounded Regions | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/130.surrounded-regions.cpp) | Medium | Oct 25, 2023 |
 | 138 | Copy List with Random Pointer | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/138.copy-list-with-random-pointer.cpp) | Medium | Aug 2, 2024 |
 | 139 | Word Break | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/139.word-break.cpp) | Medium | Aug 2, 2024 |
+| 141 | Linked List Cycle | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/141.linked-list-cycle.cpp) | Medium | Jul 31, 2024 |
 | 143 | Reorder List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/143.reorder-list.cpp) | Medium | Jul 31, 2024 |
 | 146 | LRU Cache | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/146.lru-cache.cpp) | Medium | Aug 24, 2023 |
 | 148 | Sort List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/148.sort-list.cpp) | Medium | Aug 8, 2023 |
