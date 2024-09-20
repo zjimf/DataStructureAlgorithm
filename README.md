@@ -49,8 +49,9 @@
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
 | 116 | Populating Next Right Pointers in Each Node | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/116.populating-next-right-pointers-in-each-node) | Medium | Nov 2, 2023 |
 | 117 | Populating Next Right Pointers in Each Node II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/117.populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Nov 2, 2023 |
-| 128 | Longest Consecutive Sequence | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/128.longest-consecutive-sequence.cpp) | Medium | Aug 24, 2023 |
+| 128 | Longest Consecutive Sequence | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/128.longest-consecutive-sequence.cpp) | Medium | Sep 20, 2024 |
 | 130 | Surrounded Regions | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/130.surrounded-regions.cpp) | Medium | Oct 25, 2023 |
+| 138 | Copy List with Random Pointer | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/138.copy-list-with-random-pointer.cpp) | Medium | Aug 2, 2024 |
 | 139 | Word Break | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/139.word-break.cpp) | Medium | Aug 2, 2024 |
 | 143 | Reorder List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/143.reorder-list.cpp) | Medium | Jul 31, 2024 |
 | 146 | LRU Cache | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/146.lru-cache.cpp) | Medium | Aug 24, 2023 |
