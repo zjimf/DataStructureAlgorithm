@@ -72,6 +72,7 @@
 | 239 | Sliding Window Maximum Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/239.sliding-window-maximum.cpp) | Hard | Sep 14, 2023 |
 | 264 | Ugly Number II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/264.ugly-number-ii.cpp) | Medium | Sep 6, 2023 |
 | 279 | Perfect Squares | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/279.perfect-squares.cpp) | Medium | Aug 7, 2023 |
+| 287 | Find the Duplicate Number | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/287.find-the-duplicate-number.cpp) | Medium | Sep 22, 2023 |
 | 295 | Find Median from Data Stream | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/295.find-median-from-data-stream.cpp) | Hard | Sep 12, 2023 |
 | 299 | Bulls and Cows | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/299.bulls-and-cows.cpp) | Medium | Aug 30, 2023 |
 | 310 | Minimum Height Trees | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/310.minimum-height-trees.cpp) | Medium | Nov 1, 2023 |
