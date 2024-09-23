@@ -25,6 +25,7 @@
 | 19 | Remove Nth Node From End of List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/19.remove-nth-node-from-end-of-list.cpp) | Medium | Oct 5, 2023 |
 | 22 | Generate Parentheses | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/22.generate-parentheses.cpp) | Medium | Nov 21, 2023 |
 | 23 | Merge k Sorted Listsm | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/23.merge-k-sorted-lists.cpp) | Hard | Sep 5, 2023 |
+| 25 | Reverse Nodes in k-Group | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/23.merge-k-sorted-lists.cpp) | Hard | Sep 23, 2024 |
 | 27 | Remove Element | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/27.remove-element.cpp) | Easy | Aug 2, 2023 |
 | 33 | Search in Rotated Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/33.search-in-rotated-sorted-array.cpp) | Medium | Sep 18, 2023 |
 | 34 | Find First and Last Position of Element in Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/34.find-first-and-last-position-of-element-in-sorted-array.cpp) | Easy | Sep 18, 2023 |
