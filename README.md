@@ -48,6 +48,8 @@
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
+| 104 | Maximum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/104.maximum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
+| 111 | Minimum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/111.minimum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
 | 116 | Populating Next Right Pointers in Each Node | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/116.populating-next-right-pointers-in-each-node) | Medium | Nov 2, 2023 |
 | 117 | Populating Next Right Pointers in Each Node II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/117.populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Nov 2, 2023 |
 | 128 | Longest Consecutive Sequence | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/128.longest-consecutive-sequence.cpp) | Medium | Sep 20, 2024 |
@@ -69,6 +71,7 @@
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) | Medium | Aug 2, 2023 |
 | 210 | Course Schedule II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/210.course-schedule-ii.cpp) | Medium | Nov 4, 2023 |
 | 215 | Kth Largest Element in an Array Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/215.kth-largest-element-in-an-array.cpp) | Medium | Aug 11, 2023 |
+| 226 | Invert Binary Tree| [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/226.invert-binary-tree.cpp) | Easy | Sep 26, 2023 |
 | 238 | Product of Array Except Self | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/238.product-of-array-except-self.cpp) | Medium | Jul 23, 2024 |
 | 239 | Sliding Window Maximum Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/239.sliding-window-maximum.cpp) | Hard | Sep 14, 2023 |
 | 264 | Ugly Number II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/264.ugly-number-ii.cpp) | Medium | Sep 6, 2023 |
