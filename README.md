@@ -47,6 +47,7 @@
 | 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
+| 100 | Same Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/100.same-tree.cpp) | Easy | Sep 28, 2024 |
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
 | 104 | Maximum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/104.maximum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
 | 110 | Balanced Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/110.balanced-binary-tree.cpp) | Easy | Sep 28, 2024 |
