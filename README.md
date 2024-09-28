@@ -49,6 +49,7 @@
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
 | 104 | Maximum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/104.maximum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
+| 110 | Balanced Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/110.balanced-binary-tree.cpp) | Easy | Sep 28, 2024 |
 | 111 | Minimum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/111.minimum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
 | 116 | Populating Next Right Pointers in Each Node | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/116.populating-next-right-pointers-in-each-node) | Medium | Nov 2, 2023 |
 | 117 | Populating Next Right Pointers in Each Node II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/117.populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Nov 2, 2023 |
@@ -90,6 +91,7 @@
 | 395 | Longest Substring with At Least K Repeating Character | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/395.longest-substring-with-at-least-k-repeating-characters.cpp) | Medium | Sep 26, 2023 |
 | 424 | Longest Repeating Character Replacement | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/424.longest-repeating-character-replacement.cpp) | Medium | Sep 27, 2023 |
 | 451 | Sort Characters By Frequency | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/451.sort-characters-by-frequency.cpp) | Medium | Nov 1, 2023 |
+| 543 | Diameter of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/543.diameter-of-binary-tree.cpp) | Easy | Sep 28, 2024 |
 | 567 | Permutation in String | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/567.permutation-in-string.cpp) | Medium | Oct 29, 2023 |
 | 630 | Course Schedule III | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/630.course-schedule-iii.cpp) | Medium | Nov 6, 2023 |
 | 658 | Find K Closest Elements | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/658.find-k-closest-elements.cpp) | Medium | Sep 1, 2023 |
