@@ -69,6 +69,7 @@
 | 167 | Two Sum II - Input Array Is Sorted | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/167.two-sum-ii-input-array-is-sorted.cpp) | Medium | Jul 18, 2024 |
 | 179 | Largest number | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/179.largest-number.cpp) | Medium | Aug 11, 2023 |
 | 187 | Repeated DNA Sequences | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/187.repeated-dna-sequences.cpp) | Medium | Oct 27, 2023 |
+| 199 | Binary Tree Right Side View | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/199.binary-tree-right-side-view.cpp) | Medium | Oct 8, 2024 |
 | 200 | Number of Islands | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/200.number-of-islands.cpp) | Medium | Aug 4, 2023 |
 | 207 | Course Schedule | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/207.course-schedule.cpp) | Medium | Nov 3, 2023 |
 | 209 | Minimum Size Subarray Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/209.minimum-size-subarray-sum.cpp) | Medium | Aug 2, 2023 |
