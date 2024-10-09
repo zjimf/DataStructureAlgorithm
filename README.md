@@ -47,6 +47,7 @@
 | 86 | Partition List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 24, 2023 |
 | 88 | Merge Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/88.merge-sorted-array.cpp) | Easy | Sep 8, 2023 |
 | 92 | Reverse Linked List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/92.reverse-linked-list-ii.cpp) | Medium | Aug 16, 2023 |
+| 98 | Validate Binary Search Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/98.validate-binary-search-tree.cpp) | Medium | Oct 9, 2024 |
 | 100 | Same Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/100.same-tree.cpp) | Easy | Sep 28, 2024 |
 | 102 | Binary Tree Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/102.binary-tree-level-order-traversal.cpp) | Medium | Oct 7, 2024 |
 | 103 | Binary Tree Zigzag Level Order Traversal | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/103.binary-tree-zigzag-level-order-traversal.cpp) | Medium | Oct 16, 2023 |
@@ -119,6 +120,7 @@
 | 1209 | Remove All Adjacent Duplicates in String II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1209.remove-all-adjacent-duplicates-in-string-ii.cpp) | Medium | Aug 22, 2023 |
 | 1249 | Minimum Remove to Make Valid Parentheses | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1249.minimum-remove-to-make-valid-parentheses.cpp) | Medium | Aug 23, 2023 |
 | 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | Medium | Sep 13, 2023 |
+| 1448 | Count Good Nodes in Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1448.count-good-nodes-in-binary-tree.cpp) | Medium | Oct 9, 2024 |
 | 1472 | Design Browser History | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1472.design-browser-history.cpp) | Medium | Aug 21, 2023 |
 | 1658 | Minimum Operations to Reduce X to Zero History | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/1658.minimum-operations-to-reduce-x-to-zero.cpp) | Medium | Oct 4, 2023 |
 | 2461 | Maximum Sum of Distinct Subarrays With Length K | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/2461.maximum-sum-of-distinct-subarrays-with-length-k.cpp) | Medium | Aug 3, 2023 |
