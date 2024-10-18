@@ -57,6 +57,7 @@
 | 111 | Minimum Depth of Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/111.minimum-depth-of-binary-tree.cpp) | Easy | Sep 26, 2024 |
 | 116 | Populating Next Right Pointers in Each Node | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/116.populating-next-right-pointers-in-each-node) | Medium | Nov 2, 2023 |
 | 117 | Populating Next Right Pointers in Each Node II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/117.populating-next-right-pointers-in-each-node-ii.cpp) | Medium | Nov 2, 2023 |
+| 124 | Binary Tree Maximum Path Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/124.binary-tree-maximum-path-sum.cpp) | HARD | Oct 18, 2024 |
 | 128 | Longest Consecutive Sequence | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/128.longest-consecutive-sequence.cpp) | Medium | Sep 20, 2024 |
 | 130 | Surrounded Regions | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/130.surrounded-regions.cpp) | Medium | Oct 25, 2023 |
 | 138 | Copy List with Random Pointer | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/138.copy-list-with-random-pointer.cpp) | Medium | Aug 2, 2024 |
@@ -86,6 +87,7 @@
 | 279 | Perfect Squares | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/279.perfect-squares.cpp) | Medium | Aug 7, 2023 |
 | 287 | Find the Duplicate Number | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/287.find-the-duplicate-number.cpp) | Medium | Sep 22, 2023 |
 | 295 | Find Median from Data Stream | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/295.find-median-from-data-stream.cpp) | Hard | Sep 12, 2023 |
+| 297 | Serialize and Deserialize Binary Tree | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/297.serialize-and-deserialize-binary-tree.cpp) | Hard | Oct 18, 2024 |
 | 299 | Bulls and Cows | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/299.bulls-and-cows.cpp) | Medium | Aug 30, 2023 |
 | 310 | Minimum Height Trees | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/310.minimum-height-trees.cpp) | Medium | Nov 1, 2023 |
 | 318 | Maximum Product of Word Lengths | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/318.maximum-product-of-word-lengths.cpp) | Medium | Oct 16, 2023 |
