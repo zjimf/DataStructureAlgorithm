@@ -30,6 +30,7 @@
 | 33 | Search in Rotated Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/33.search-in-rotated-sorted-array.cpp) | Medium | Sep 18, 2023 |
 | 34 | Find First and Last Position of Element in Sorted Array | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/34.find-first-and-last-position-of-element-in-sorted-array.cpp) | Easy | Sep 18, 2023 |
 | 36 | Valid Sudoku | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/36.valid-sudoku.cpp) | Medium | Oct 13, 2023 |
+| 39 | Combination Sum | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/39.combination-sum.cpp) | Medium | Oct 20, 2024 |
 | 42 | Trapping Rain Water | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/42.trapping-rain-water.cpp) | Hard | Oct 12, 2023 |
 | 49 | Group Anagrams | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/49.group-anagrams.cpp) | Medium | Aug 29, 2023 |
 | 51 | N-Queens | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/51.n-queens.cpp) | Medium | Nov 21, 2023 |
@@ -41,6 +42,7 @@
 | 74 | Search a 2D Matrix | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/74.search-a-2-d-matrix.cpp) | Medium | Sep 20, 2023 |
 | 75 | Sort colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/75.sort-colors.cpp) | Medium | Aug 11, 2023 |
 | 76 | Minimum Window Substring colors | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/76.minimum-window-substring.cpp) | Hard | Oct 2, 2023 |
+| 78 | Subsets | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/78.subsets.cpp) | Medium | Oct 20, 2024 |
 | 82 | Remove Duplicates from Sorted List | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/83.remove-duplicates-from-sorted-list.cpp) | Easy | Oct 25, 2023 |
 | 83 | Remove Duplicates from Sorted List II | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/86.partition-list.cpp) | Medium | Oct 25, 2023 |
 | 84 | Largest Rectangle in Histogram | [C++](https://github.com/zjimf/DataStructureAlgorithm/blob/master/Leetcode/84.largest-rectangle-in-histogram.cpp) | Hard | Jul 23, 2024 |
